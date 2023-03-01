@@ -22,7 +22,7 @@ sendo que um valor mais reduzido corresponde a maior nível de compressão mas u
 sendo que existem imagenes convertidas  com valor de 30, com nível aceitável.
 Para que o script possa processar as imagens  é necessário instalar os vários módulos do Python.
 Para instalar o python ver por exemplo o sitio oficial :https://www.python.org/ .
-Após instalação deve via linha de comando a partir da linha de comandos deve instalar os módulos. 
+Após instalação deve via linha de comando a partir do terminal (MacOs) ou Windows deve instalar os módulos via comandos do Python. 
 pip install os ,  pip install glob, ...
 Relativamente às pastas de fonte das imagens e destino, está estruturado de forma a se poder configurar a paste fonte e as pastas  destino.
 Os caminhos de exemplo:
