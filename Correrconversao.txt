@@ -1,0 +1,40 @@
+A verificar os requisitos para conversão de imagens para a Web
+Existe a pasta de origem de imagens para conversão em .\\data\\naocomprimido\\
+Existe o caminho ou pasta de imagens destino após compressão nivel 1 imagens para conversão em .\\data\\comprimidonresized\\
+Existe o caminho ou pasta de imagens destino após compressão e ajuste imagens nivel 2 para conversão em .\\data\\comprimidosite\\
+Estes são os ficheiros da diretoria corrente: ['2020-02-26 (1).png', '2020-02-26 (2).png', '2020-02-26 (3).png', '2020-02-26 (4).png', '2020-02-26.png', '2020-03-13.png', '2020-03-24.png']
+O numero de imagens para processamento programado na variável num_files_max  7 é inferior ao existente na pasta de origem .\\data\\naocomprimido\\. A ajustar numero de ficheiros a processar 
+O ficheiro encontrado corresponde a posição 0 da lista de ficheiros é: 2020-02-26 (1).png
+O ficheiro encontrado corresponde a posição 1 da lista de ficheiros é: 2020-02-26 (2).png
+O ficheiro encontrado corresponde a posição 2 da lista de ficheiros é: 2020-02-26 (3).png
+O ficheiro encontrado corresponde a posição 3 da lista de ficheiros é: 2020-02-26 (4).png
+O ficheiro encontrado corresponde a posição 4 da lista de ficheiros é: 2020-02-26.png
+O ficheiro encontrado corresponde a posição 5 da lista de ficheiros é: 2020-03-13.png
+O ficheiro encontrado corresponde a posição 6 da lista de ficheiros é: 2020-03-24.png
+O ficheiro ***comprimido*** corresponde a posição {0} da lista de ficheiros é: {'2020-02-26 (1).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {1} da lista de ficheiros é: {'2020-02-26 (2).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {2} da lista de ficheiros é: {'2020-02-26 (3).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {3} da lista de ficheiros é: {'2020-02-26 (4).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {4} da lista de ficheiros é: {'2020-02-26.png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {5} da lista de ficheiros é: {'2020-03-13.png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {6} da lista de ficheiros é: {'2020-03-24.png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+A verificar os requisitos para conversão de imagens para a Web
+Existe a pasta de origem de imagens para conversão em .\\data\\naocomprimido\\
+Existe o caminho ou pasta de imagens destino após compressão nivel 1 imagens para conversão em .\\data\\comprimidonresized\\
+Existe o caminho ou pasta de imagens destino após compressão e ajuste imagens nivel 2 para conversão em .\\data\\comprimidosite\\
+Estes são os ficheiros da diretoria corrente: ['2020-02-26 (1).png', '2020-02-26 (2).png', '2020-02-26 (3).png', '2020-02-26 (4).png', '2020-02-26.png', '2020-03-13.png', '2020-03-24.png']
+O numero de imagens para processamento programado na variável num_files_max  7 é inferior ao existente na pasta de origem .\\data\\naocomprimido\\. A ajustar numero de ficheiros a processar 
+O ficheiro encontrado corresponde a posição 0 da lista de ficheiros é: 2020-02-26 (1).png
+O ficheiro encontrado corresponde a posição 1 da lista de ficheiros é: 2020-02-26 (2).png
+O ficheiro encontrado corresponde a posição 2 da lista de ficheiros é: 2020-02-26 (3).png
+O ficheiro encontrado corresponde a posição 3 da lista de ficheiros é: 2020-02-26 (4).png
+O ficheiro encontrado corresponde a posição 4 da lista de ficheiros é: 2020-02-26.png
+O ficheiro encontrado corresponde a posição 5 da lista de ficheiros é: 2020-03-13.png
+O ficheiro encontrado corresponde a posição 6 da lista de ficheiros é: 2020-03-24.png
+O ficheiro ***comprimido*** corresponde a posição {0} da lista de ficheiros é: {'2020-02-26 (1).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {1} da lista de ficheiros é: {'2020-02-26 (2).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {2} da lista de ficheiros é: {'2020-02-26 (3).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {3} da lista de ficheiros é: {'2020-02-26 (4).png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {4} da lista de ficheiros é: {'2020-02-26.png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {5} da lista de ficheiros é: {'2020-03-13.png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
+O ficheiro ***comprimido*** corresponde a posição {6} da lista de ficheiros é: {'2020-03-24.png'} em caso de sucesso é gravado na pasta  .\\data\\comprimidonresized\\
